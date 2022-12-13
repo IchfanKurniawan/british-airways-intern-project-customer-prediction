@@ -1,2 +1,5 @@
 dataset/
 *.csv
+
+code/.ipynb_checkpoints/
+british-airways-task-2-checkpoint.ipynb
